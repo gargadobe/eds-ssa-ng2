@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.eueds-da.live/gargadobe/eds-ssa-ng2/
+    type: markup
